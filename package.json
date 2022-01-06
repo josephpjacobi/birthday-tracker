@@ -12,8 +12,10 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"chromedriver": "^97.0.0",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
+		"regenerator-runtime": "^0.13.9",
 		"selenium-webdriver": "^4.1.0"
 	},
 	"devDependencies": {
@@ -25,6 +27,8 @@
 		"@types/jest": "^27.4.0",
 		"@types/react": "^17.0.38",
 		"@types/react-dom": "^17.0.11",
+		"@types/regenerator-runtime": "^0.13.1",
+		"@types/selenium-webdriver": "^4.0.16",
 		"css-loader": "^6.5.1",
 		"html-webpack-plugin": "^5.5.0",
 		"jest": "^27.4.7",

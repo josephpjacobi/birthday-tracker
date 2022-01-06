@@ -9,6 +9,6 @@
 		"sourceMap": true,
 		"target": "es2018"
 	},
-	"include": ["./src/app.test.tsx"],
+	"include": ["src/tests/app.test.tsx"],
 	"exclude": ["node_modules"]
 }
